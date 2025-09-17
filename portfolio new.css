@@ -33,6 +33,7 @@ body {
   align-items: flex-end;
   justify-content: center;
   position: fixed;
+  background-color:rgb(255, 255, 255);
 }
 .navbar {
   display: flex;
@@ -144,3 +145,4 @@ input:hover {
 .contactbutton:hover {
   background-color: rgb(255, 215, 162);
 }
+
